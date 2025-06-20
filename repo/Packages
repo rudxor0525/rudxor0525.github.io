@@ -1,0 +1,302 @@
+Package: ai.akemi.appinst
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 364
+Pre-Depends: firmware (>= 5.0)
+Depends: ai.akemi.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Replaces: com.linusyang.appinst
+Provides: com.linusyang.appinst
+Filename: debs/ai.akemi.appinst_2.1.1_iphoneos-arm64~akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 59538
+MD5sum: e6d2a75aca6914175323aa421dd8ba1a
+SHA1: 1af6238bedc0cb46528c0f1b601229e2314f5eba
+SHA256: 71d53a9d7f7b5c90f2fa43fff30dbce842e48f219011c8febb4439ffc5f461e2
+Section: Utilities
+Priority: standard
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: A command-line IPA app installer.
+Tag: role::enduser, purpose::console
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
+Name: appinst (App Installer)
+
+Package: ai.akemi.appinst
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 364
+Pre-Depends: firmware (>= 5.0)
+Depends: ai.akemi.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Replaces: com.linusyang.appinst
+Provides: com.linusyang.appinst
+Filename: debs/ai.akemi.appinst_2.1.1_iphoneos-arm~akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 59716
+MD5sum: 891aef5b77f11e286edd1440dd905943
+SHA1: 86f090c7e88452fb89baf14beacbb26d2392003e
+SHA256: 5997771183c39eb8b5e13fc2bb511b1dfcb7eb39d3f10c9092ab088ec34aae09
+Section: Utilities
+Priority: standard
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: A command-line IPA app installer.
+Tag: role::enduser, purpose::console
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
+Name: appinst (App Installer)
+
+Package: ai.akemi.appsyncunified
+Version: 110.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+SHA1: f0392e1c1992789ac92c17dc7db3718fca6df899
+SHA256: fa97d20ecaab914c7d07fc17ff2f31c15d34b33a5eebc158cb2c83e8a7ec2abc
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 636
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 78056
+MD5sum: 94325cbe75c1b30c15b7f4f24defd37b
+SHA1: 698bcbf521d81925cf4528d4661fb4af973e5dab
+SHA256: ffb6b3dfd84c8e6285c961bfc94f9645b2b194791d8dc43bcfc56f6b66b15e01
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm64
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 668
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 49472
+MD5sum: d6a31911e878b83e47c6525fa29ecef1
+SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
+SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: com.hackcatml.mldecrypt
+Version: 0.2.3
+Architecture: iphoneos-arm64
+Maintainer: hackcatml
+Installed-Size: 19560
+Depends: ldid, firmware (>= 14.2)
+Filename: debs/com.hackcatml.mldecrypt_ipa_extract_0.2.3_iphoneos-arm64.deb
+Size: 18372040
+MD5sum: a7b38aabc1a2bf8a0df7da2d90ff43fb
+SHA1: 04262c3b67320c2074aac197d189e4dc3656790f
+SHA256: 6d551277a67e1ff9ef22bb0d8aeb1fc60b992c3e7583f416be915d47ba975d15
+Section: System
+Description: iOS app binary dump & backup tool
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.lukezgd.dropbear
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: LukeZGD
+Depends: openssh
+Conflicts: com.lcampbell0x.dropbear
+Filename: debs/com.lukezgd.dropbear.deb
+Size: 1272234
+MD5sum: e26a75d00b913e69e5fbcfc3aff06215
+SHA1: d5189cb1ad3ccc9bf53861b0c0bba88ea5fb5bbe
+SHA256: 2ba04d2d0ea13d0b0ca6f75066a27ab04087588d1316da8d2c3c441ed393aa03
+Section: System
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Name: Dropbear
+
+Package: com.lukezgd.newterminstaller
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: LukeZGD
+Depends: ws.hbang.common (<< 2.0), ws.hbang.newterm2 (>= 2.5)
+Filename: debs/com.lukezgd.newterminstaller.deb
+Size: 822
+MD5sum: 01ffbc9f21e7bf3d361f4106697218b6
+SHA1: 672984633ba43a8d62687f01b9d2edbc7d1fd369
+SHA256: 3c42336d48eb688cdba72b8d628193e308ccc66d3d8796b861aa599cc74678fd
+Section: System
+Description: NewTerm 2 installer for socket jailbreak and other rootful (mainly for iOS 14 and lower) jailbreaks. Users must have https://repo.chariz.com added to Sources to proceed. You may remove this package after NewTerm 2 is installed.
+Author: LukeZGD
+Name: NewTerm 2 Installer for Socket
+
+Package: ipwnderlite
+Version: 1.0.69
+Architecture: iphoneos-arm64
+Maintainer: sakuRdev/dora2ios
+Depends: firmware (>= 15.0), curl, com.ra9stuff.accessoryalertblocker
+Filename: debs/ipwnderlite_1.0.69_iphoneos-arm64.deb
+Size: 19264
+MD5sum: 6e73d0ed0209ff2602642c85accccc30
+SHA1: c61efbc795cde3ec8da8fb0ffdc72d92c5ca79d8
+SHA256: 93a9ee4ac459478876ee17c7e4c30b418fca3a0bb2645f4293b105c816f110a6
+Section: System
+Description: iPwnder Lite for iPhoneOS.
+Author: sakuRdev/dora2ios
+Depiction: https://raw.githubusercontent.com/dora2ios/ipwnder_lite/fba4c52bfeaa44ea2a51cd89e0fc48a906d31d9d/README.md
+Name: iPwnder Lite (Rootless)
+
+Package: ipwnderlite32
+Version: 1.0.69-1
+Architecture: iphoneos-arm
+Maintainer: sakuRdev/dora2ios
+Depends: firmware (>= 9.0), firmware (<< 11.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Filename: debs/ipwnderlite32_1.0.69-1_iphoneos-arm.deb
+Size: 23194
+MD5sum: 397bd0c8e81336e8be96a02fc8be2cf7
+SHA1: dd9666ef2763748b094fb5833cdf6e174e8a64e7
+SHA256: b887948ac97ffb4744b087e4e5e0bfe1bdc075902481035a70b66b8be290ec02
+Section: System
+Description: iPwnder Lite for iPhoneOS.
+Author: sakuRdev/dora2ios
+Depiction: https://raw.githubusercontent.com/dora2ios/ipwnder_lite/fba4c52bfeaa44ea2a51cd89e0fc48a906d31d9d/README.md
+Name: iPwnder Lite
+
+Package: ipwnderlite64
+Version: 1.0.69
+Architecture: iphoneos-arm
+Maintainer: sakuRdev/dora2ios
+Depends: firmware (>= 11.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Filename: debs/ipwnderlite64_1.0.69_iphoneos-arm.deb
+Size: 22868
+MD5sum: 48f01c9e24fc0b6d049983a29c511716
+SHA1: e508428723e9b5c24736b986d60387f91e3f45e1
+SHA256: 3a002fc710cd6aac02730ae53e5f51930d940b4402e2e4d5f4cfad1eb30e9f31
+Section: System
+Description: iPwnder Lite for iPhoneOS.
+Author: sakuRdev/dora2ios
+Depiction: https://raw.githubusercontent.com/dora2ios/ipwnder_lite/fba4c52bfeaa44ea2a51cd89e0fc48a906d31d9d/README.md
+Name: iPwnder Lite (iOS 11+)
+
+Package: me.jjolano.alertdismiss
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: debs/me.jjolano.alertdismiss.deb
+Size: 25240
+MD5sum: 2282ea8ff09e382807e1aa3399996d8d
+SHA1: a0d8427704e3e458e1ed7c373d1ff236c58e1ffc
+SHA256: d7ad8fa1edf908499c807075ee62b947cd1b329300d0dc12cdf79171e69f2fb1
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Add a Force Dismiss button to any UIAlertController.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+Name: AlertDismiss
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+
+Package: me.jjolano.alertdismiss
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: jjolano <jjolano@me.com>
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: debs/me.jjolano.alertdismiss_1.0.4_iphoneos-arm64.deb
+Size: 14936
+MD5sum: aafdecff1cda78f7877a373dcf4c0e07
+SHA1: 9b4ad7ec99a3b1480af36fc7f4dceb31b5bb1167
+SHA256: 33ef491d32f1f7642b0710aba11db3ad5c11bde9800f92d2ce46a62544b23872
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Add a Force Dismiss button to any UIAlertController.
+Author: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.alertdismiss.html
+Icon: https://ios.jjolano.me/assets/me.jjolano.alertdismiss/icon.png
+Moderndepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+Name: AlertDismiss
+Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.json
+
+Package: re.frida.server
+Version: 16.1.4
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60104
+Conflicts: re.frida.server64
+Filename: debs/frida_16.1.4_iphoneos-arm64.deb
+Size: 17921044
+MD5sum: 21033ae5e6ce422be5c4b4b806bf9d0f
+SHA1: 2dae125619eb321f656ebdf1634de9e50c527785
+SHA256: 1452fc2ae81e17e8dd0b84bffafbcb6b9cfb045425c3df0db35a4958367af748
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.7.13
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 54584
+Conflicts: re.frida.server64
+Filename: debs/frida_16.7.13_iphoneos-arm64.deb
+Size: 16844760
+MD5sum: 438365ec3d02477ee57fe24685c345d6
+SHA1: 630f187cf8029b8162c1528f0e6ebd73bc5827ff
+SHA256: 4b51376ba75653d58994a69dcb3545b2e6dba3583ee892808a1734ec716d243b
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 17.2.2
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 52848
+Conflicts: re.frida.server64
+Filename: debs/frida_17.2.2_iphoneos-arm64.deb
+Size: 16016220
+MD5sum: 7ce643912af06869672d0e0e433f1463
+SHA1: 4e3eb6c54c9beace34286fccb87762862a6b3202
+SHA256: b0e74e7670e10541d405dfa66e4fcfba0be96cff402af299b6fca0ddf547db0a
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
