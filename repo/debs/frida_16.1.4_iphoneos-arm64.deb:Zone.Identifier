@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://github.com/frida/frida/releases?page=8
-HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/9405122/b2b573fc-b4bc-4d3e-8863-8782307adcf8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250620T134839Z&X-Amz-Expires=300&X-Amz-Signature=b4c00fee2fdb6676976b8290fe7c470b69fcb2da0c3f2152161e969ba7d9e782&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dfrida_16.1.4_iphoneos-arm64.deb&response-content-type=application%2Foctet-stream
