@@ -41,15 +41,33 @@
             text-decoration: none;
             transition: color 0.2s;
             font-weight: bold;
+            padding-right: 7px;
         }
         a:hover {
             color: #ffb400;
             text-decoration: underline;
         }
         p {
-            margin: 14px 0;
+            margin: 5px 0 0 0;
             line-height: 1.6;
             font-size: 1.05em;
+        }
+        .repo-item {
+            font-family: 'YourFont', sans-serif;
+            font-weight: bold;
+            color: #23df1d;
+            margin-bottom: 10px;
+        }
+        .repo-link {
+            color: #007aff;
+            text-decoration: none;
+            padding-right: 7px;
+        }
+        .repo-link:hover {
+            text-decoration: underline;
+        }
+        span {
+            padding-right: 15px;
         }
     </style>
 </head>
@@ -58,10 +76,30 @@
         <h1>My Custom jailbreak Repo</h1>
         <hr/>
         <p>My Custom jailbreak repo.</p>
-        <h3>Add repo to:</h3>
-        <p><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ryu-geonwoo.github.io/repo/">Cydia</a></p>
-        <p><a href="zbra://sources/add/https://ryu-geonwoo.github.io/repo/">Zebra</a></p>
-        <p><a href="sileo://source/https://ryu-geonwoo.github.io/repo/">Sileo</a></p>
+        <p>There are three Frida versions, <br> and you can use the Zebra to downgrade
+</p>
+        <h3>Add My Custom repo to:</h3>
+        <p><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ryu-geonwoo.github.io/repo/">Cydia</a>
+        <a href="zbra://sources/add/https://ryu-geonwoo.github.io/repo/">Zebra</a></t> 
+        <a href="sileo://source/https://ryu-geonwoo.github.io/repo/">Sileo</a></p>
+    
+        <hr>
+        <h3>Add other repo to:</h3>
+
+        <p class="repo-item">
+            <span>MTerminal</span>  
+            <a href="cydia://url/https://mtac.app/" class="repo-link">Cydia</a>
+            <a href="zbra://sources/add/https://mtac.app/" class="repo-link">Zebra</a>
+            <a href="sileo://source/https://mtac.app/" class="repo-link">Sileo</a>
+        </p>
+    
+        <p class="repo-item">
+            <span>Filza File Manager</span>  
+            <a href="cydia://url/http://tigisoftware.com/repo/" class="repo-link">Cydia</a>
+            <a href="zbra://sources/add/http://tigisoftware.com/repo/" class="repo-link">Zebra</a>
+            <a href="sileo://source/http://tigisoftware.com/repo/" class="repo-link">Sileo</a>
+        </p>
+    
     </div>
 </body>
 </html>
