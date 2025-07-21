@@ -111,6 +111,23 @@ Name: AppSync Unified
 
 Package: com.hackcatml.mldecrypt
 Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: hackcatml
+Installed-Size: 19560
+Depends: ldid, firmware (>= 14.2)
+Filename: debs/com.hackcatml.mldecrypt_0.2.3_iphoneos-arm.deb
+Size: 18370058
+MD5sum: ad392b215ce5fe1764a38b5cca2912c3
+SHA1: 63f72da8be4a492bb87daf50b12d07b9e99c6177
+SHA256: 8254c0d2b2538918b0371dadf5f18eb669dbae30de08e4d793ba0bd1a4470eac
+Section: System
+Description: iOS app binary dump & backup tool
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.hackcatml.mldecrypt
+Version: 0.2.3
 Architecture: iphoneos-arm64
 Maintainer: hackcatml
 Installed-Size: 19560
@@ -248,6 +265,24 @@ Sileodepiction: https://ios.jjolano.me/depiction/native/me.jjolano.alertdismiss.
 
 Package: re.frida.server
 Version: 16.1.4
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60096
+Conflicts: re.frida.server64
+Filename: debs/frida_16.1.4_iphoneos-arm.deb
+Size: 17921232
+MD5sum: 109094ed89237b137022f6924173ea30
+SHA1: 8d08594bc51f074bfc2c394a74e3e40efa65f5d0
+SHA256: 8439e333f26bcc934b45d6756262492d5ce66891d594895bd45245a730938566
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.1.4
 Architecture: iphoneos-arm64
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 60104
@@ -275,6 +310,24 @@ Size: 16844760
 MD5sum: 438365ec3d02477ee57fe24685c345d6
 SHA1: 630f187cf8029b8162c1528f0e6ebd73bc5827ff
 SHA256: 4b51376ba75653d58994a69dcb3545b2e6dba3583ee892808a1734ec716d243b
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.7.13
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 54576
+Conflicts: re.frida.server64
+Filename: debs/frida_16.7.13_iphoneos-arm.deb
+Size: 16842844
+MD5sum: d3ae4731ee2e768f7e029cd9c009cf23
+SHA1: d758f0ed18904428278b533db77c271828d08382
+SHA256: 480ee37eb5729811c056a79ebc02a09ed8030805dcac456762b93536f229cb6a
 Section: Development
 Priority: optional
 Homepage: https://frida.re/
